@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "872802381210",
+    "firebase_url": "https://pivagas.firebaseio.com",
+    "project_id": "pivagas",
+    "storage_bucket": "pivagas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872802381210:android:253e1da980d40be4",
+        "android_client_info": {
+          "package_name": "com.example.flutterlogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872802381210-tpkhi7ssnijq0hpu0s00rv3d2o915tcl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterlogindemo",
+            "certificate_hash": "d19941db94efbc31699e9cd68116c441d2c96813"
+          }
+        },
+        {
+          "client_id": "872802381210-3dkip5shv85difeluu8t4cgs677kv0eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcl7sndDudcFODvhL7uwj3T3_sYfqhGRA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872802381210-3dkip5shv85difeluu8t4cgs677kv0eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872802381210:android:5dc34e9ba23ee1d3",
+        "android_client_info": {
+          "package_name": "com.example.pivagascandidado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872802381210-4v2h5j527pg63i0h49bbmknvsqvha8d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pivagascandidado",
+            "certificate_hash": "d19941db94efbc31699e9cd68116c441d2c96813"
+          }
+        },
+        {
+          "client_id": "872802381210-3dkip5shv85difeluu8t4cgs677kv0eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcl7sndDudcFODvhL7uwj3T3_sYfqhGRA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872802381210-3dkip5shv85difeluu8t4cgs677kv0eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872802381210:android:e54edc0ff7128263",
+        "android_client_info": {
+          "package_name": "com.example.pivagasempresa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872802381210-ono9m3cl5o7kk6prh8qkqicb0jvmsemv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pivagasempresa",
+            "certificate_hash": "d19941db94efbc31699e9cd68116c441d2c96813"
+          }
+        },
+        {
+          "client_id": "872802381210-3dkip5shv85difeluu8t4cgs677kv0eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcl7sndDudcFODvhL7uwj3T3_sYfqhGRA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872802381210-3dkip5shv85difeluu8t4cgs677kv0eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
