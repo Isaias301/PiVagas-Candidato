@@ -1,7 +1,7 @@
 # PiVagas Candidato
 ## App para visualização de vagas de trabalho.
 
-### Estudo de caso e funcionalidades: https://docs.google.com/document/d/1QhbUhzR48oJHq0wFr9YSBLiE1GcweukVzC-nudbpvjU/edit
+### Estudo de caso e funcionalidades: https://drive.google.com/open?id=1pWG-dSEZRnMldBrz2mqi-FZ-1p2B9JP3UdLNyySQ0g4
 
 ### Diagrama de clase: 
 
